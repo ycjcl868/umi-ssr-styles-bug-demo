@@ -3,7 +3,7 @@ import styles from './Top2.module.less';
 
 const TEST = props => (
   <div className={styles.searchContent}>
-    <h1>2222TEST TEST TEST</h1>
+    <h1>use Top2.module.less</h1>
   </div>
 );
 
